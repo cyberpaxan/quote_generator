@@ -1,0 +1,36 @@
+body {
+    background-color: burlywood;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+button {
+    position: absolute;
+    margin-left: 700px;
+    margin-right: 700px;
+    top: 80vh;
+    appearance: none;
+    border: 0;
+    border-radius: 10px;
+    background: #cb46d7;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 60px;
+}
+
+#quote {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 55px;
+    margin-left: 10vh;
+    margin-right: 10vh;
+    text-align: center;
+    margin-top: 200px;
+    font-family: 'Splash', cursive;
+    
+}
